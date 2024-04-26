@@ -22,6 +22,8 @@ Data Preprocessing: The collected data needed cleaning, including:
 
 Visualizations: 
 
+https://www.canva.com/design/DAF86hL-GpM/lGDVYxbdClcxgBhYngzQhQ/edit?utm_content=DAF86hL-GpM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 ## Tested Models (different for different tasks): 
 
@@ -53,14 +55,13 @@ Cathegories:
 
 *__Model Interpretation__*: feature importance (shap values) were tested to understand which factors contribute most to predictions.
 
-## Prediction and Analysis
-
-
 
 ## Conclusion
 
 Alternative data sources for more robust training: 
+
 Ensembles to improve accuracy.
+
 Real-time prediction models for ongoing F1 seasons (transfer learning, tuning the previous model after each year, not to train the new one)
 
 
@@ -70,6 +71,4 @@ Python Version: 3.11.7
 
 pip install -r requirements.txt
 
-
-# References:
 
